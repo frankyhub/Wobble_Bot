@@ -22,9 +22,9 @@ Diese Anleitung beschreibt den Aufbau eines Wobble_Bots. Der Wobble_Bot ist auf 
 ![Bild](/pic/WobbleBot.gif)
 
 
-![Bild](WobbleBot.png) 
+![Bild](pic/WobbleBot.png) 
 
-![Bild](WobbleBotR.png)
+![Bild](pic/WobbleBotR.png)
 
 ## Hardware
 
