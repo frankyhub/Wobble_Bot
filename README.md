@@ -42,6 +42,7 @@ Diese Anleitung beschreibt den Aufbau eines Wobble_Bots. Der Wobble_Bot ist auf 
 
 ![Bild](/pic/Schaltplan.png)
 
+![Bild](/pic/Platte.png)
 
 ---
 
