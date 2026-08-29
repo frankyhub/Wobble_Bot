@@ -24,13 +24,13 @@ Diese Anleitung beschreibt den Aufbau eines Wobble_Bots. Der Wobble_Bot ist auf 
 
 ![pic/WobbleBot.png](https://github.com/frankyhub/Wobble_Bot/blob/main/pic/WobbelBot.png) 
 
-![Bild](pic/WobbleBotR.png)
+
 
 ## Hardware
 
 | Stück | Beschreibung | 
 | -------- | -------- | 
-| 1        |Sperrholzplatte 600x300x3mm       |
+| 1        |Verpackungskarton 4mm 600x300x3mm       |
 | 1        |Karton für den PaperBot     |
 | 1        | Mini Elektrischer Motor 1.5V-6V Speed 10000RPM       | 
 | 1         | 3-D Druckteil (Unwucht)    | 
