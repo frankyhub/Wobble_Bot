@@ -16,7 +16,8 @@
 
 
 ## Story
-Diese Anleitung beschreibt den Aufbau eines Wobble_Bots. Der Wobble_Bot ist auf eine Sperrholzplatte mit Füßen geklebt. Auf der Achse des Gleichstrommotors befindet sich ein 3D-Druckteil, das eine Unwucht erzeugt. Dadurch dreht sich der Wobble_Bot.
+Diese Anleitung beschreibt den Aufbau eines Wobble-Bots. Der Wobble-Bot ist auf eine Sperrholzplatte mit Füßen geklebt. Auf der Achse des Gleichstrommotors befindet sich ein 3D-Druckteil, das eine Unwucht erzeugt. Dadurch dreht sich der Wobble_Bot.
+Optional kann der Wobble-Bot auch auf einen Karton geklebt werden, mit einem Kabelbinder als Unwucht.
 
 
 ![Bild](/pic/WobbleBot.gif)
