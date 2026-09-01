@@ -45,6 +45,8 @@ Optional kann der Wobble-Bot auch auf einen Karton geklebt werden, mit einem Kab
 
 ![Bild](/pic/Platte.png)
 
+![Bild](/pic/WobbleBot2.gif)
+
 ---
 
 <div style="position:absolute; left:2cm; ">   
