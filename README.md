@@ -42,7 +42,7 @@ Optional kann der Wobble-Bot auch auf einen Karton geklebt werden, mit einem Kab
 <img src="pic/Schaltplan.png" width="500"> 
 <br> <br>
 
-<img src="pic/Platte..png" width="500"> 
+<img src="pic/Platte.png" width="500"> 
 <br> <br>
 
 <img src="pic/WobbleBot2.gif" width="500"> 
