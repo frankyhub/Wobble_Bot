@@ -5,14 +5,15 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Wobble_Bot/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Wobble_Bot/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Wobble_Bot/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20120-blue)|<a href="https://github.com/frankyhub/Wobble_Bot/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Wobble_Bot)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Wobble_Bot)|<a href="https://github.com/frankyhub/Wobble_Bot/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Wobble_Bot)|<a href="https://github.com/frankyhub/Wobble_Bot/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Wobble_Bot)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Wobble_Bot)| <a href="https://github.com/frankyhub/Wobble_Bot/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Wobble_Bot/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Wobble_Bot/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Wobble_Bot)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Wobble_Bot)|<a href="https://github.com/frankyhub/Wobble_Bot/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Wobble_Bot)|<a href="https://github.com/frankyhub/Wobble_Bot/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Wobble_Bot)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20120-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Wobble_Bot)| <a href="https://github.com/frankyhub/Wobble_Bot/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Wobble_Bot/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 
 
+<img src="pic/WobbleBot.gif" width="500"> 
+<br> <br>
 
-
----
+</div>  
 
 
 ## Story
@@ -20,12 +21,9 @@ Diese Anleitung beschreibt den Aufbau eines Wobble-Bots. Der Wobble-Bot ist auf 
 Optional kann der Wobble-Bot auch auf einen Karton geklebt werden, mit einem Kabelbinder als Unwucht.
 
 
-![Bild](/pic/WobbleBot.gif)
 
-
-![pic/WobbleBot.png](https://github.com/frankyhub/Wobble_Bot/blob/main/pic/WobbelBot.png) 
-
-
+<img src="pic/WobbelBot.png" width="500"> 
+<br> <br>
 
 ## Hardware
 
@@ -41,11 +39,14 @@ Optional kann der Wobble-Bot auch auf einen Karton geklebt werden, mit einem Kab
 |    ---    | ---      | 
 
 
-![Bild](/pic/Schaltplan.png)
+<img src="pic/Schaltplan.png" width="500"> 
+<br> <br>
 
-![Bild](/pic/Platte.png)
+<img src="pic/Platte..png" width="500"> 
+<br> <br>
 
-![Bild](/pic/WobbleBot2.gif)
+<img src="pic/WobbleBot2.gif" width="500"> 
+<br> <br>
 
 ---
 
